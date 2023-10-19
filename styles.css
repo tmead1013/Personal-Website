@@ -1,0 +1,27 @@
+.gradient-background {
+    background: linear-gradient(300deg, #FFFFFF, #fac21b);
+    background-size: 180% 180%;
+    /* animation: gradient-animation 18s ease infinite; */
+  }
+  
+  .gold-button {
+    color: #fac21b;
+
+  }
+  .title {
+    font-family: 'Gulzar', serif;
+    width: 100vw;
+    justify-content: left;
+    font-size: 70px;
+  }
+/* @keyframes gradient-animation { */
+    /* 0% {
+      background-position: 0% 100%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 100%;
+    }
+  } */
