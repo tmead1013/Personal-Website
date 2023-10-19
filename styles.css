@@ -25,3 +25,16 @@
       background-position: 0% 100%;
     }
   } */
+
+  /* .dark-gold-text {
+    color: #825700;
+  } */
+
+  @media (max-width: 800px) {
+    #name {
+font-size: 48px;
+    }
+    body {
+      width: 110vw;
+    }
+  }
